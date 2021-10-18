@@ -1,0 +1,22 @@
+.float {
+    background-color: blanchedalmond;
+    border-bottom: 1px solid red;
+    padding: 30px;
+    margin: 10px;
+}
+
+.bg-blue {
+    background-color: azure;
+}
+
+.floated-right {
+    float: right;
+}
+
+.floated-left {
+    float: left;
+}
+/*clear is a helper class*/
+.clear {
+    clear: right;
+}

@@ -1,0 +1,15 @@
+.float {
+    margin: 10px;
+    float: right;
+    height: 150px;
+}
+
+div {
+    border: 1px solid red;
+}
+
+.clearfix::after {
+    clear: both; /*rigt | left | both*/
+    content: " "; /* insert content into html file*/
+    display: table; /* set display type.*/
+}

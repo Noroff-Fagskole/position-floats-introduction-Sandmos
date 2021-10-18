@@ -1,0 +1,12 @@
+
+.container {
+    height: 50px;
+}
+
+.sticky-position {
+    position: sticky;
+    top: 20px;
+    background-color: darkgreen;
+    padding: 10px;
+
+}
